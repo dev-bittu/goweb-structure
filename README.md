@@ -74,6 +74,7 @@ To use this predefined directory structure for your Golang Gin web project, foll
 ```bash
 go run cmd/main.go
 ```
+6. Visit localhost:8080 OR localhost:8080/ping to check whether it is working or not.
 
 Make sure to refer to the official documentation of the Golang Gin web framework (https://github.com/gin-gonic/gin) for more information on how to use Gin and its features.
 
