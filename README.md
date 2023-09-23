@@ -6,6 +6,7 @@ This project aims to provide a standardized and organized approach to structurin
 The directory structure follows a modular approach, separating different components of the application into their respective directories.
 Here is an overview of the predefined structure:
 
+```
 .
 ├── cmd
 │   └── main.go
@@ -29,7 +30,7 @@ Here is an overview of the predefined structure:
 │       └── ...
 └── utils
     └── ...
-
+```
 
 ### cmd
 The cmd directory contains the entry point of the application, main.go.
